@@ -1,10 +1,9 @@
 <div align="center">
   
-  <img src="https://github.com/KaikLopes/KaikLopes/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/KaikLopes/KaikLopes/blob/output/github-contribution-grid-snake.svg?palette=oceanic&color_snake=white&color_dots=gray" alt="snake">
 
   <h1>Francisco Kaik</h1>
   <h3>Full Stack Developer em Formação | Análise e Desenvolvimento de Sistemas</h3>
-
 
 ---
 
@@ -31,10 +30,9 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e um **D
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaikLopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikLopes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaikLopes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikLopes&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
 </div>
-
 ### Contato:
 <div id="badges" style="margin-bottom: 20px;">
     <a href="https://www.linkedin.com/in/franciscokaik/"> 
