@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://github.com/KaikLopes/KaikLopes/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/KaikLopes/KaikLopes/blob/output/github-contribution-grid-snake.svg?v=1" alt="snake">
 
   <h1>Francisco Kaik</h1>
   <h3>Full Stack Developer em Formação | Análise e Desenvolvimento de Sistemas</h3>
