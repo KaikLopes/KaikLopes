@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
+  
+  <img src="https://github.com/KaikLopes/KaikLopes/blob/output/github-contribution-grid-snake.svg" alt="snake">
 
-<!--
-**KaikLopes/KaikLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Francisco+Kaik;Full+Stack+Developer+em+Formação;Análise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" /></a>
+  </h1>
 
-Here are some ideas to get you started:
+  <div id="badges" style="margin-bottom: 20px;">
+    <a href="https://www.linkedin.com/in/franciscokaik/"> 
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:kaiklopes2208@gmail.com"> 
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre Mim
+
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e um **Desenvolvedor Full Stack em Formação**. Meu foco é construir soluções de software eficientes e escaláveis. Atualmente, estou aprofundando meus conhecimentos em tecnologias essenciais como **C, Java, JavaScript, HTML e CSS**, sempre buscando novos desafios para crescer profissionalmente.
+
+---
+
+### 💻 Meu Kit de Ferramentas (Hard Skills)
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="55" height="55"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55"/>&nbsp;
+</div>
+
+---
+
+### 📊 Minhas Estatísticas do GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaikLopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikLopes&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
