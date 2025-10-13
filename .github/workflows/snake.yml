@@ -6,7 +6,7 @@ on:
   # Roda automaticamente em um cronograma (a cada 12 horas)
   schedule:
     - cron: "0 */12 * * *"
-  
+
   # Permite que você rode a Action manualmente pela aba "Actions" do GitHub
   workflow_dispatch:
 
@@ -23,13 +23,17 @@ jobs:
       # 2. Gera a animação da cobrinha
       - uses: Platane/snk@v3
         with:
-          # Seu nome de usuário do GitHub
           github_user_name: ${{ github.repository_owner }}
+          # Configura para uma cobrinha mais lenta e estilo "classic" ou "minimal"
+          # O número de frames influencia na "lentidão"
+          animation_duration: 1500 # Aumentei a duração da animação para 1.5s por frame
+          frames: 40 # Número de frames para a animação completa
+          style: "solid" # Ou 'border' ou 'null' para um estilo mais simples
 
-          # Arquivos de saída que serão gerados
+          # Arquivos de saída que serão gerados com os novos parâmetros
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=oceanic&color_snake=white&color_dots=gray&style=solid
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=white&color_dots=gray&style=solid
 
       # 3. Envia os arquivos gerados para um branch chamado "output"
       - uses: crazy-max/ghaction-github-pages@v3
