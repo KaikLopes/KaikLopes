@@ -1,9 +1,11 @@
 <div align="center">
   
-  <img src="https://github.com/KaikLopes/KaikLopes/blob/output/github-contribution-grid-snake.svg?palette=oceanic&color_snake=white&color_dots=gray" alt="snake">
+  <img src="https://github.com/KaikLopes/KaikLopes/blob/output/github-contribution-grid-snake.svg" alt="snake">
 
   <h1>Francisco Kaik</h1>
   <h3>Full Stack Developer em Formação | Análise e Desenvolvimento de Sistemas</h3>
+
+</div>
 
 ---
 
@@ -27,19 +29,25 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e um **D
 
 ---
 
+### 📫 Contato
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/franciscokaik/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:kaiklopes2208@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://instagram.com/kaiklopes.dev"> 
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
+---
+
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaikLopes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikLopes&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
-</div>
-### Contato:
-<div id="badges" style="margin-bottom: 20px;">
-    <a href="https://www.linkedin.com/in/franciscokaik/"> 
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:kaiklopes2208@gmail.com"> 
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-  </div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaikLopes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikLopes&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
