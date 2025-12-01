@@ -43,10 +43,3 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e um **D
 </div>
 
 ---
-
-### 📊 Minhas Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaikLopes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikLopes&layout=compact&langs_count=7&theme=github_dark" alt="Linguagens Mais Usadas"/>
-</div>
