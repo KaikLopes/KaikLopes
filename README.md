@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre Mim
 
-Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e um **Desenvolvedor Full Stack em Formação**. Meu foco é construir soluções de software eficientes e escaláveis. Atualmente, estou aprofundando meus conhecimentos em tecnologias essenciais como **C, Java, JavaScript, HTML e CSS**, sempre buscando novos desafios para crescer profissionalmente.
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e um **Desenvolvedor Full Stack em Formação**. Meu foco é construir soluções de software eficientes e escaláveis. Atualmente, estou aprofundando meus conhecimentos em tecnologias essenciais como **Java e JavaScript**, sempre buscando novos desafios para crescer profissionalmente.
 
 ---
 
