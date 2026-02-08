@@ -32,8 +32,8 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e um **D
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaikLopes&show_icons=true&theme=dracula" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikLopes&layout=compact&langs_count=7&theme=dracula" height="180" alt="top langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikLopes&layout=compact&theme=dracula"/>
 </div>
 
 ---
