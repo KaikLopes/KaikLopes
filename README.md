@@ -28,6 +28,8 @@ Minha jornada é guiada pela paixão em resolver problemas complexos através de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring" width="55" height="55"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate / JPA" alt="Hibernate" width="55" height="55"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="55" height="55"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="55" height="55"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>&nbsp;
@@ -45,6 +47,24 @@ Minha jornada é guiada pela paixão em resolver problemas complexos através de
 | :--- | :--- | :--- |
 | **[Sistema Loja Web](https://github.com/KaikLopes/Sistema_Loja_Web)** | Java, Spring Boot, JPA, PostgreSQL, JavaScript, HTML/CSS | 🚧 **Em Desenvolvimento**<br>Sistema Web desenvolvido com Java e Spring MVC no backend, e interface dinâmica com HTML, CSS e JavaScript. Utiliza o mesmo banco de dados da versão Desktop. |
 | **[Sistema Loja Desktop](https://github.com/KaikLopes/Sistema_Loja_Programa)** | Java, Swing, JPA, PostgreSQL | 🚧 **Em Desenvolvimento**<br>Aplicação construída com interface gráfica Java Swing e persistência de dados feita com Hibernate. Compartilha o mesmo banco de dados da versão Web. |
+| **[Fura-Fila Connect](https://github.com/KaikLopes/fura-fila-connect)** | Node.js, Express, PostgreSQL, JWT, JavaScript, HTML/CSS | 🚀 **Destaque**<br>Sistema de agendamento desenvolvido para otimizar a gestão de compromissos. Conta com agenda inteligente, dashboard de métricas e autenticação segura com JWT. |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas Gerais de KaikLopes" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikLopes&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas de KaikLopes" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
